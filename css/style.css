@@ -92,7 +92,7 @@ header{
 	content: '';
 	background-color: white;
 	position: absolute;
-	height: 80px;
+	height: 75px;
 	width: 100%;
 	z-index: 2;
 }
